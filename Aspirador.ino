@@ -3,7 +3,7 @@
     Aspirador de pó com Arduino Pro Mini
 
     Código feito com carinho por Flávio Pavim
-    Vídeo sobre o aspiradior: https://youtube........ EM BREVE
+    Vídeo sobre o aspirador: https://youtube........ EM BREVE
 
     -------------------------------------------------------------------
 
